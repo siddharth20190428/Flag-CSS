@@ -1,1 +1,13 @@
+hr {
+  border: 1px solid black;
+}
+#line1 {
+  padding-top: 50px;
+  background: rgb(255, 115, 0);
+  margin-bottom: 50px;
+}
 
+#line2 {
+  padding-bottom: 50px;
+  background: rgb(72, 255, 0);
+}
